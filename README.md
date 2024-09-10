@@ -1,9 +1,12 @@
 # Influencer and Brand Review App
 
-![image](https://github.com/user-attachments/assets/9401044a-22ec-4c7c-b9e6-59909f7d48a2)
+![image](https://github.com/user-attachments/assets/732ed7fb-4a8b-42ac-9c63-158538411459)
 
-![image](https://github.com/user-attachments/assets/fb56f5ad-e785-411b-bcda-b3735f64c3a6)
 
-![image](https://github.com/user-attachments/assets/a1b4ac5a-4874-4257-850e-f27bd20026ee)
+![image](https://github.com/user-attachments/assets/78e1ba4a-1b1f-4975-b301-656a32598be9)
+
+
+![image](https://github.com/user-attachments/assets/69465e49-9029-44cd-ac59-e69db27cd9d3)
+
 
 
